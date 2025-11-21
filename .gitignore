@@ -1,0 +1,21 @@
+# Ignore dataset
+data/
+
+# Ignore model weights
+*.pth
+*.pt
+*.ckpt
+
+# Ignore virtual env
+.venv/
+venv/
+env/
+
+# Ignore caches
+__pycache__/
+*.pyc
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
